@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, this is Akku-Batt bot 👋</h1>
+<h1>Hi, this is Akku-Batt bot 👋</h1>
 </div>
 
 <div align="center">
@@ -82,6 +82,10 @@ The bot uses a database system to store reports on scooter problems and automati
     <h3>#Tutorial</h3>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_install.jpg" width="250" hight="120"
+    </p>
+    <h3>#Did you not find what you were looking for?</h3>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_more_help.jpg" width="250" hight="120"
     </p>
 </div>
 
