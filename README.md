@@ -8,7 +8,6 @@
 
 </br>
 </br>
-</br>
 
 <div align="center">
     <h1>About this bot 💬</h1>
@@ -34,7 +33,8 @@
 - Instructions for actions in case of malfunction of the scooter, including information about the areas where you can ride and complete the rental.
 
 </br>
-</br>
+The bot uses a database system to store reports on scooter problems and automatically sends these reports to support for further processing. Users can interact with the bot through convenient buttons and text commands.
+
 </br>
 </br>
 
@@ -57,7 +57,6 @@
 </p>
 
 </br>
-</br>
 
 <div align="center">
     <h1>Screenshots from the bot 📱</h1>
@@ -71,6 +70,38 @@
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/start_main_menu.jpg" width="250" hight="120"
     </p>
 </div>
+
+<div align="center">
+    <h2>Button: How do I rent a scooter?</h2>
+    <h3>#Menu</h3>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_main.jpg" width="250" hight="120"
+    </p>
+    </br>
+    <h2>How to install the app</h2>
+    <h3>#Tutorial</h3>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_install.jpg" width="250" hight="120"
+    </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div align="center">
