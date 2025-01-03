@@ -69,23 +69,30 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/start_main_menu.jpg" width="250" hight="120"
     </p>
-</div>
-
-<div align="center">
     <h2>Button: How do I rent a scooter?</h2>
-    <h3>#Menu</h3>
+    <h4>#Menu</h4>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_main.jpg" width="250" hight="120"
     </p>
     </br>
     <h2>How to install the app</h2>
-    <h3>#Tutorial</h3>
+    <h4>#Tutorial</h4>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_install.jpg" width="250" hight="120"
     </p>
-    <h3>#Did you not find what you were looking for?</h3>
+    <h4>#Did you not find what you were looking for?</h4>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_more_help.jpg" width="250" hight="120"
+    </p>
+    <h2>Button: How do I rent a scooter?</h2>
+    <h4>#Tutorial</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_scooter.jpg" width="250" hight="120"
+    </p>
+    <h2>Button: How to ride?</h2>
+    <h4>#Tutorial</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_ride.jpg" width="250" hight="120"
     </p>
 </div>
 
