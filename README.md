@@ -44,6 +44,7 @@
 
 </br>
 <p align="center">
+    
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="170" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
@@ -51,12 +52,26 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" width="125" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="120" height="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" width="130" height="50">
 
 </p>
 
 </br>
 </br>
+
+<div align="center">
+    <h1>Screenshots from the bot 📱</h1>
+    <h2>Command: /start</h2>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/start_message.jpg" alt="start_message" width="250" hight="120"
+    </p>
+    </br>
+    ⬇️⬇️⬇️
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/start_main_menu.jpg" width="250" hight="120"
+    </p>
+</div>
+
 
 <div align="center">
     <h1>Contacting me 📫</h1>
