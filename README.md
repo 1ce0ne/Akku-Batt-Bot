@@ -139,27 +139,31 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/scooter_dont_ride.jpg" width="250" hight="120"
     </p>| 
-        
+    <h2>Button: Is the scooter broken? Do I need a refund?</h2>
+    <h4>Creating a refund request</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report_main.jpg" width="250" hight="120"
+    </p>| 
+    </br>
+    </br>
+    ⬇️⬇️⬇️
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report_send_photo.jpg" width="250" hight="120"
+    </p>| 
+    </br>
+    </br>
+    ⬇️⬇️⬇️
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report_numbers.jpg" width="250" hight="120"
+    </p>| 
+    </br>
+    </br>
+    ⬇️⬇️⬇️
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report_send.jpg" width="250" hight="120"
+    </p>|
+    
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
     <h1>Contacting me 📫</h1>
