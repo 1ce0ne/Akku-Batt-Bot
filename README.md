@@ -98,6 +98,27 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_ride.jpg" width="250" hight="120"
     </p>
+    <h2>Button: Why was 300 rubles deducted?</h2>
+    <h4>#Where 300 rubles were debited</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/where_my_300.jpg" width="250" hight="120"
+    </p>
+    <h4>#Why didn't the refund arrive?</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/where_my_300_help.jpg" width="250" hight="120"
+    </p>
+    <h2>Button: I can't complete the lease, what should I do?</h2>
+    <h4>#Menu</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/help_with_rent_main.jpg" width="250" hight="120"
+    </p>
+    <h4>#How to complete the lease</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/stop_rent.jpg" width="250" hight="120"
+    </p>|
+    </br>
+    ⬇️⬇️⬇️
+    <h4>#I'm already in the blue zone.</h4>
 </div>
 
 
