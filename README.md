@@ -162,7 +162,10 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report_send.jpg" width="250" hight="120"
     </p>|
-    
+    <h2>Report</h2>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/report.jpg" width="250" hight="120"
+    </p>|
 </div>
 
 <div align="center">
