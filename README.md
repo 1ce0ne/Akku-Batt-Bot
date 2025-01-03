@@ -129,6 +129,17 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/i_in_blue_zone.jpg" width="250" hight="120"
     </p>|
+    <h2>Button: Where can I ride?</h2>
+    <h4>#Where can I ride?</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/where_i_can_ride.jpg" width="250" hight="120"
+    </p>|   
+    <h2>Button: The scooter has stopped moving</h2>
+    <h4>#The scooter has stopped moving</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/scooter_dont_ride.jpg" width="250" hight="120"
+    </p>| 
+        
 </div>
 
 
