@@ -123,8 +123,12 @@ The bot uses a database system to store reports on scooter problems and automati
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/stop_rent.jpg" width="250" hight="120"
     </p>|
     </br>
+    </br>
     ⬇️⬇️⬇️
     <h4>#I'm already in the blue zone.</h4>
+    <p align="center">
+        <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/i_in_blue_zone.jpg" width="250" hight="120"
+    </p>|
 </div>
 
 
