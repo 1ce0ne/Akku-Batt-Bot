@@ -69,11 +69,17 @@ The bot uses a database system to store reports on scooter problems and automati
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/start_main_menu.jpg" width="250" hight="120"
     </p>
+</div>
+
+<div align="center">
     <h2>Button: To the main menu</h2>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/main_menu.jpg" alt="start_message" width="250" hight="120"
     </p>  
     <h2>Button: How do I rent a scooter?</h2>
+</div>
+
+<div align="center">
     <h4>#Menu</h4>
     <p align="center">
         <img src="https://github.com/1ce0ne/All_Photo/blob/main/Akku-Batt/how_rent_main.jpg" width="250" hight="120"
